@@ -1,0 +1,42 @@
+body {
+    background-size: 100%;
+    background-image: url(../img/bk1.jpg);
+}
+/* container do conteudo */
+#content {
+    margin-top: 50px;
+    background-color: rgba(108, 43, 138, 0.6);
+    width: 900px;
+    height: 600px;
+    margin-bottom: 50px;
+}
+/* formatacao foto de apresentacao */
+.foto-apresentacao {
+    margin: 10px;
+    width: 240px;
+    height: 240px;
+    
+}
+/* area da foto de apresentacao */
+.area1 {
+    border-right: 1px solid black;
+    width: 280px;
+}
+/* area de contato */
+.area2 {
+    padding: 10px;
+    border-right: 1px solid black;
+    width: 280px;
+    height: 320px;
+    font-family: Verdana;
+    color: white;
+}
+/* area texto de apresentacao */
+.area3 {
+    margin-left: 300px;
+    margin-top: -580px;
+    padding: 20px;
+    font-family: Verdana;
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'got';
+    src: url('../fontes/Anton/Anton-Regular.ttf');
+}
+
+body {
+    background-image: url(../IMG/bk3.png);
+}
+
+.titulo {
+    margin-top: 20px;
+}
+
+.titulo-heroi {
+    font-family: Times;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.subtitulo-heroi {
+    font-family: 'Times';
+    font-size: 19px;
+    font-weight: 40px;
+    color: white;
+    padding: 10px;
+}
+
+.titulo-page {
+    font-size: 55px;
+    color: rgb(253, 253, 253);
+    font-family: 'got';
+    margin-top: 70px;
+    letter-spacing: 2px;
+    
+
+}
+
+.area-conteudo {
+    background: rgba(255, 255, 255, 0.3);
+    width: 457px;
+    height: 550px;
+    margin: 50px 5% 50px 5%;
+    border-left: 7px solid #f30c0c;
+    float: left;
+    position: relative;
+    box-shadow: 1px 2px;
+}
+
+.tamanho-foto {
+    width: 450px;
+    height: 300px;
+}

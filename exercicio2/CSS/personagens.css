@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'got';
+    src: url('../fontes/Game\ of\ Thrones.ttf');
+}
+
+.titulo {
+    margin-top: 20px;
+    
+    
+}
+.titulo-heroi{
+    font-family:Times;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+.subtitulo-heroi{
+    font-family: 'Times';
+    font-size: 25px;
+    font-weight: 40px;
+    color: white;
+
+}
+.titulo-page {
+    font-size: 55px;
+    color: rgb(253, 253, 253);
+    font-family: 'got';
+    margin-top: 70px;
+    
+}
+.area-conteudo{
+    background:  rgba(255, 255, 255, 0.3);
+    width: 457px;
+    height: 550px;
+    margin: 50px 5% 50px 5%;
+    border-left: 7px solid #f30c0c;
+    float: left;
+    position: relative;
+    box-shadow: 1px 2px;
+
+}
+.tamanho-foto{
+    width:450px;
+    height: 300px;
+}
